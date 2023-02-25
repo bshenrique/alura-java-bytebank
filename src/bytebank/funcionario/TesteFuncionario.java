@@ -1,6 +1,6 @@
-package bytebankteste.funcionario;
+package bytebank.funcionario;
 
-import bytebankteste.conta.Cliente;
+import bytebank.conta.Cliente;
 
 public class TesteFuncionario {
 	

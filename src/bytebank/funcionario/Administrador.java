@@ -1,6 +1,6 @@
-package bytebankteste.funcionario;
+package bytebank.funcionario;
 
-import bytebankteste.sistema.Autenticador;
+import bytebank.sistema.Autenticador;
 
 public class Administrador extends Funcionario implements Autenticavel {
 

@@ -1,7 +1,7 @@
-package bytebankteste.conta;
+package bytebank.conta;
 
-import bytebankteste.funcionario.Autenticavel;
-import bytebankteste.sistema.Autenticador;
+import bytebank.funcionario.Autenticavel;
+import bytebank.sistema.Autenticador;
 
 public class Cliente implements Autenticavel{
 

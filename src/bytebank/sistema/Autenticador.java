@@ -1,4 +1,4 @@
-package bytebankteste.sistema;
+package bytebank.sistema;
 
 public class Autenticador {
 

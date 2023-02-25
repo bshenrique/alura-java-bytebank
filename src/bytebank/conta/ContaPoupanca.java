@@ -1,4 +1,4 @@
-package bytebankteste.conta;
+package bytebank.conta;
 
 public class ContaPoupanca extends Conta implements ContaOperacoes {
 	

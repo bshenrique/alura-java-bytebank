@@ -5,5 +5,5 @@
  * @author Henrique Barbosa
  *
  */
-module bytebankteste {
+module bytebank {
 }

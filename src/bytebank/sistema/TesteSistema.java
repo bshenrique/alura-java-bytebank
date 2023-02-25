@@ -1,7 +1,7 @@
-package bytebankteste.sistema;
+package bytebank.sistema;
 
-import bytebankteste.conta.Cliente;
-import bytebankteste.funcionario.*;
+import bytebank.conta.Cliente;
+import bytebank.funcionario.*;
 
 public class TesteSistema {
 

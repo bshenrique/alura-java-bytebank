@@ -1,4 +1,4 @@
-package bytebankteste.conta;
+package bytebank.conta;
 
 public interface ContaOperacoes {
 	

@@ -1,4 +1,4 @@
-package bytebankteste.funcionario;
+package bytebank.funcionario;
 
 public interface Autenticavel {
 
